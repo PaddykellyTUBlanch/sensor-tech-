@@ -1,2 +1,2 @@
 # Patrick Kelly
-## Sensort Technology Report
+## Sensor Technology Report
