@@ -1,1 +1,2 @@
-# sensor-tech-
+# Paddy Kelly
+## Sensor Technology Repo.
